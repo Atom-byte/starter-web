@@ -12,3 +12,6 @@ Hello in turkish,arabic.
 
 ##Konichiwa
 Hello from Japan!!!...
+
+##Ni hao
+Hello from covid prone country China :)
