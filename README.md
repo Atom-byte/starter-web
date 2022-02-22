@@ -15,3 +15,6 @@ Hello from Japan!!!...
 
 ##Ni hao
 Hello from covid prone country China :)
+
+##Annyeonghaseyo
+Hello from the land of K-Pop.
